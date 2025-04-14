@@ -1,12 +1,15 @@
 import {Link} from 'react-router-dom'
+import Hero from '../components/Hero'
+import Vision from '../components/Vision'
 
 
 const HomePage = ()=>{
 
  return(
   <>
-   <section>
-    <Link to="/contact">Home</Link>
+   <section className="p-4 p-sm-5">
+    <Hero />
+    <Vision isHome={true} />
    </section>
   </>
  )

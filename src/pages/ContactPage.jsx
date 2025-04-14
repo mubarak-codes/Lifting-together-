@@ -1,13 +1,10 @@
 
 
-
-
 const ContactPage = ()=>{
 
  return(
   <>
-   <section>
-    ContactPage
+   <section className="p-4 p-sm-5">
    </section>
   </>
  )

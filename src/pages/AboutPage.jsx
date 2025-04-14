@@ -1,12 +1,12 @@
-
+import Vision from '../components/Vision'
 
 
 const AboutPage = ()=>{
 
  return(
   <>
-   <section>
-    AboutPage
+   <section className="px-4 px-sm-5">
+    <Vision />
    </section>
   </>
  )
