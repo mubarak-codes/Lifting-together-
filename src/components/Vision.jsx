@@ -29,7 +29,7 @@ By providing access to quality education, we empower women and children to acqui
 However, education alone is not enough. Access to healthcare services, including nutrition, wellness, and medical care, is essential for women and children to thrive. Healthy individuals are more likely to pursue educational and economic opportunities, breaking cycles of poverty and vulnerability.
      Economic empowerment is the crucial third pillar, enabling women to secure stable incomes, build assets, and make informed financial decisions. By providing job training, entrepreneurship support, and financial literacy, we help women create better futures for themselves and their families.<br /><br/>
      <span className="fw-bold">Our holistic approach recognizes that these three pillars are:</span><br />
-     - Education informs healthcare choices and economic opportunities.<br />
+     - Education informs healthcare choices and economic opportunities.${<br />}
      - Healthcare enables individuals to pursue education and economic goals.< br />
      - Economic empowerment provides the stability to invest in education and healthcare.<br /><br />
      <span className="fw-bold">By addressing these interconnected needs,we creates a comprehensive support system that empowers women and children to:</span><br />
