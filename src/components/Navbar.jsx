@@ -10,8 +10,8 @@ const Navbar = ()=>{
     <nav className="navbar navbar-expand-sm border-bottom py-1 px-3 bg-white">
      <Link to="/" className="navbar-brand w-20"> <img src="img/lifting_together_trans.png" className="w-30-sm w-70" /><span className="d-none d-sm-inline-block ff-josefin-sans fw-bolder">LIFTING TOGETHER</span></Link>
 
-     <i class="fa-solid fa-bars mfs-6 d-sm-none click-grow navbar-toggler" data-bs-toggle="offcanvas" data-bs-target="#nav"></i>
-     <div className="offcanvas offcanvas-end w-100 " id="nav">
+     <i class="fa-solid fa-bars mfs-6 d-sm-none click-grow navbar-toggler navbar-nav" data-bs-toggle="offcanvas" data-bs-target="#nav"></i>
+     <div className="offcanvas offcanvas-end w-100 " id="nav" data-bs-scroll="true" tabindex="-1">
       <div className="offcanvas-header border-bottom">
       <h3 className="offcanvas-title ff-josefin-sans fw-bolder">LIFTING TOGETHER</h3> 
        <i class="fa-solid fa-xmark ms-auto mfs-8 fw-ligter" data-bs-dismiss="offcanvas"></i>
