@@ -6,8 +6,8 @@ const Navbar = ()=>{
 
  return(
   <>
-   <section>
-    <nav className="navbar navbar-expand-sm border-bottom py-1 px-3">
+   <section className="fixed-top">
+    <nav className="navbar navbar-expand-sm border-bottom py-1 px-3 bg-white">
      <Link to="/" className="navbar-brand w-20"> <img src="img/lifting_together_trans.png" className="w-30-sm w-70" /><span className="d-none d-sm-inline-block ff-josefin-sans fw-bolder">LIFTING TOGETHER</span></Link>
 
      <i class="fa-solid fa-bars mfs-6 d-sm-none click-grow" data-bs-toggle="collapse" data-bs-target="#nav"></i>

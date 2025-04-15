@@ -5,7 +5,7 @@ const AboutPage = ()=>{
 
  return(
   <>
-   <section className="px-4 px-sm-5">
+   <section className="p-4 p-sm-5 mt-3">
     <Vision />
    </section>
   </>

@@ -7,7 +7,7 @@ const HomePage = ()=>{
 
  return(
   <>
-   <section className="p-4 p-sm-5">
+   <section className="p-4 p-sm-5 mt-5">
     <Hero />
     <Vision isHome={true} />
    </section>
